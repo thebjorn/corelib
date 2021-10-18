@@ -1,7 +1,7 @@
 {
-  "name": "corelib",
+  "name": "@thebjorn/corelib",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/corelib.js",
   "repository": "https://github.com/thebjorn/corelib.git",
   "author": "Bjorn Pettersen <bp@norsktest.no>",
   "license": "MIT",
